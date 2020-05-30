@@ -32,6 +32,8 @@ export default function App() {
         <Polygon x={1} y={2} />
         <Polygon x={0} y={3} />
         <Polygon x={1} y={3} />
+        <Polygon x={0} y={4} />
+        <Polygon x={1} y={4} />
       </svg>
     </div>
   );
