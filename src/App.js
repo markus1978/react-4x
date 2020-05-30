@@ -1,6 +1,8 @@
 import React from "react";
 import "./styles.css";
 
+// This is based on https://www.redblobgames.com/grids/hexagons/
+
 const w = Math.sqrt(3) * 50;
 const h = 2 * 50;
 
